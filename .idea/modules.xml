@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventManager/EventManager.iml" filepath="$PROJECT_DIR$/EventManager/EventManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventManagerProject.iml" filepath="$PROJECT_DIR$/EventManagerProject.iml" />
+    </modules>
+  </component>
+</project>
+
